@@ -10,9 +10,14 @@ pdf에 있는 이미지, 표까지 읽고 답변해주는 챗봇
 
 메뉴얼 기반 챗봇인데 단순하게 csv 파일로 예상 질문과 답변 만들어서 할까 고민중
 
-3가지 방법 비교
+
 
 ---
+
+## CSV 기반 챗봇 예시
+
+![모델 비교](https://github.com/wahoman/RAG_image_table/blob/main/image/csv_example.png)
+
 
 ## 모델 비교
 
